@@ -140,4 +140,4 @@ void CheckingAccount::changeMaxCap() {
         cout << "New maximum capacity: ";
         cin >> maxCap;
     }
-}
+} 
